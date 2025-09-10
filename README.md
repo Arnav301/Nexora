@@ -26,6 +26,7 @@ g++ main.cpp Game.cpp Player.cpp Enemy.cpp -o AdventureGame
 # 🕹️ Gameplay
 
 1. Start the game and enter your hero’s name.
+
 2. Choose actions:
 
 - Explore rooms
